@@ -1,2 +1,2 @@
 # GitHub-Practice
-This is a Practice Repository for Git and Github.
+This is a Practice Repository for Git and Github
